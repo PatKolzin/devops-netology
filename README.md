@@ -1,5 +1,6 @@
+Good night fellas - after fix
 Игнорируется всё, что находится в папке .terraform
-**/.terraform/*
+*/.terraform/*
 
 Игнорятся все файлы с расширением tfstate, а так же все файлы в названии которых есть .tfstate.
 *.tfstate
